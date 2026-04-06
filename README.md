@@ -121,5 +121,5 @@ do "code/replication_code_main.do"
 
 ## Replicator
 **Ravi S**  
-Replication completed: April 2026  
-Contact: [your email]
+Replication completed: Feb 2026  
+Contact: Ravishankar Singh
